@@ -1,0 +1,105 @@
+
+
+
+  If we can simulate a bunch of different possibilities for the development of genetic lines and then consider the possibilities of each individual's genetic makeup based on the number of simulated possibilities a certain closeness to that individual's genetic makeup (this doesn't have to be binary; it can be a double called "relatedness" or "distance function between this individual and this simulated individual," we might be able to use ancient DNA to its best effect.
+
+  A deep neural net can come in if we treat each allele (or small enough genetic length) as a single input to a neuron at the first part of the net and then spit out (as final outputs) the most likely locality of this person's ancestors at various times in history.  I'm not sure exactly how feasible this idea is, particularly if I were to attempt it in only a single undergrad semester, but I think this is eventually the kind of analysis we want, yes?  We want to be able to track the movement of these genes throughout the world at different times and epochs, or at least the probability that a certain cascade of genetic/migration events occurred given the DNA evidence.  This kind of reconstructionist genetic history could be very valuable for the state of knowledge about the human race, our ancestry with chimpanzees, who knokws?  The possibilities could be endless as long as our model is good enough.  Probably the most important thing is the deep learning / general blending model for how these genes moved over time.  Any specific technolog(ies) must be secondary to this.  If we can correctly represent the gene sequences, EVENTUALLY the code will turn out alright.  With this kind of analysis, there's no reason we can't go back further in the evolutionary history of man and see where we estimate to have diverged from chimps, bonobos, gorillas, birds, fish, etc.  More accurate population modeling than old fashioned "we have this much DNA in common with xyz other species" could provide massive insights not only into our (life's) own history but also potentially the evolution of future forms of intelligence like robots.  To come full circle, a deeper understanding of the nature of intelligence, mutation, inheritance, and evolution could lead to smarter general AI approaches and even artificial general intelligence itself.
+
+  But back to the practical, "doable in maybe a few years" type of research; the neural net ought to take various alleles as inputs and learn to fit certain probabilities of inheritance from various loci that were generated from simulations.  I'm not sure precisely how much of this type of work has already been done in your lab; I made sure to jot down my ideas before I learned too much of exactly what you've done precisely so I could keep my ideas independent and maybe have one or two truly "original" ones.
+
+  An even more ambitious model would account for mutation in individuals on one or more alleles.  Scientists with better knowledge of human genetics than I have would know which mutations are characteristic of which human tribal groups and therefore when and where particular mutations might have been introduced into a given population's genetic code.  With enough data, enough model run time, and an accurate enough model, we could reconstruct every last bit of genetic history possible given the fossil record we have.  Once again, these are grand, sweeping visions of what the future might be, and they might seem horribly impractical today (January 24th, 2018).  But it's hard to predict the future; I imagine only 3 decades ago it would have been almost unthinkable that we could fully sequence the human genome, and a century ago we didn't even understand that DNA was the code that transmitted information from generation to generation
+
+  Perhaps one of the most important areas of research in this field is the automation of graphical models that explain the movement of populations over time.  These could be very powerful, not only in explaining these concepts to scientists, but in getting the general public excited about genetic research and evolutionary history.  The sad truth is that science cannot continue without the support of governments and occasional uber-rich people like Bill Gates.  Graphical representations of information are so intuitive to human beings that you could convince any person off the street of their genetic history with a colorful, convincing picture.  Imagine how powerful and influential your lab could become if you could sequence someone's genome on the street and show them a graph of their ancient ancestry on the spot.  Again, such a vision seems hardly possible at the current state of the art, but it may be the algorithm (or model)'s shortcoming rather than the actual possibility/impossibility of the matter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+idk if should ask this
+Professor Pe'er, can I have a research position with you after this?
+
+
+
+
+
+
+
+
+
+
+
+
+-- 
+Warm regards,
+Nathan Bendich
+nxb2101
+General Studies '18
+
+Interested in General AI, Space Travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+idk if should ask this
+Professor Pe'er, can I have a research position with you after this?
+
+
+
+
+
+
+
+
+
+
+
+
+-- 
+Warm regards,
+Nathan Bendich
+nxb2101
+General Studies '18
+
+Interested in General AI, Space Travel
+
